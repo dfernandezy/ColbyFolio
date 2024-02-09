@@ -13,3 +13,5 @@ A section dedicated to Colby's career highlights and achievements
 A gallery of high-quality images showcasing Colby's riding and lifestyle
 A section dedicated to Colby's latest projects and collaborations
 A contact form for inquiries and collaborations
+
+![Colby Folio Video](https://github.com/dfernandezy/ColbyFolio//blob/main/colbypage-min.png?raw=true)
